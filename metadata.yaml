@@ -1,5 +1,8 @@
 _repo: The-nature-of-a-crime_75172
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75172-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Conrad, Joseph
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1016
     wikipedia: https://en.wikipedia.org/wiki/Ford_Madox_Ford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75172#The-nature-of-a-crime
 gutenberg_issued: '2025-01-22'
 gutenberg_type: Text
 identifiers:
